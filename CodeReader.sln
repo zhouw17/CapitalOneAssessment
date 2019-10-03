@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodeReader", "CodeReader\CodeReader.pyproj", "{E634E63B-5079-4D1E-85C3-0B3A622D139D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E634E63B-5079-4D1E-85C3-0B3A622D139D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E634E63B-5079-4D1E-85C3-0B3A622D139D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {091FB520-5A10-4D8E-BAE4-778637F1245F}
+	EndGlobalSection
+EndGlobal
